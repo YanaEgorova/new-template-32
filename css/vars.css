@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+  --first-brand-color: #cab9a1;
+  --second-brand-color: #5c7d78;
+  --third-brand-color: #e6e4df;
+
+  --main-font: 'Comfortaa';
+  --title-font: 'Bebas Neue';
+
+  font-size: 62.5%;
+}
